@@ -1,0 +1,21 @@
+#container {
+  padding: 1rem;
+}
+
+h3 {
+  margin-bottom: 0.25rem;
+}
+
+input {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+
+button {
+  padding: 0.5rem;
+  background-color: #039be5;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.25rem;
+  margin-top: 0.75rem;
+}
